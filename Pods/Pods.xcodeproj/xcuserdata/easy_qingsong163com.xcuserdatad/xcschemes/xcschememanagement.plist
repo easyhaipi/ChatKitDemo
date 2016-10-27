@@ -14,6 +14,16 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>CYLTabBarController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>CYLTableViewRowAction.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>ChatKit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -34,6 +44,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>FTPopOverMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -45,6 +60,11 @@
 			<false/>
 		</dict>
 		<key>MLLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MLPAutoCompleteTextField.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -74,6 +94,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>TWMessageBarManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>UITableView+FDTemplateLayoutCell.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -97,7 +122,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>0C1D89EAE68EF4D4ABEDB611EC44AAB0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>24EA3ACD1D2270F03575C18A2AA8FE40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>28CFDB8AC9A5DB3DAF89A76DBE05A4F0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3864B920443466EEF730783E00AD574E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -127,12 +167,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>8816573C36DAEDEC45EB8753A0E63183</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>8EFC4C52C1EFC358FD10901912D00B45</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9A5AB78539285682A748926614DFFF93</key>
+		<key>9A16D9CAFB10627F91610904F11AB373</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -143,6 +188,11 @@
 			<true/>
 		</dict>
 		<key>A695583FE48EDC0F7FA49C6311A8A8EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A939DB6DB66223A8D0C657A0C440E295</key>
 		<dict>
 			<key>primary</key>
 			<true/>

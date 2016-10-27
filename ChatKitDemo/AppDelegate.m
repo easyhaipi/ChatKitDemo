@@ -17,6 +17,16 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    
+    [LCChatKit setAppId:LeancloudAppID appKey:LeancloudAppKey];
+    
+    
+    
+    
+    
+    
+    
     return YES;
 }
 

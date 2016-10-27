@@ -72,6 +72,14 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_resource "ChatKit/ChatKit/Class/Resources/VoiceMessageSource.bundle"
   install_resource "ChatKit/ChatKit/Class/Module/ContactList/View/LCCKContactCell.xib"
   install_resource "MJRefresh/MJRefresh/MJRefresh.bundle"
+  install_resource "RedPacketAlipay/AlipaySDK.bundle"
+  install_resource "RedpacketLib/RedpacketStaticLib/resources/RedPacketResource.bundle"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-error.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-error@2x.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-info.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-info@2x.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-success.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-success@2x.png"
   install_resource "${BUILT_PRODUCTS_DIR}/MWPhotoBrowser.bundle"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
@@ -89,6 +97,14 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_resource "ChatKit/ChatKit/Class/Resources/VoiceMessageSource.bundle"
   install_resource "ChatKit/ChatKit/Class/Module/ContactList/View/LCCKContactCell.xib"
   install_resource "MJRefresh/MJRefresh/MJRefresh.bundle"
+  install_resource "RedPacketAlipay/AlipaySDK.bundle"
+  install_resource "RedpacketLib/RedpacketStaticLib/resources/RedPacketResource.bundle"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-error.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-error@2x.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-info.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-info@2x.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-success.png"
+  install_resource "TWMessageBarManager/Classes/Icons/icon-success@2x.png"
   install_resource "${BUILT_PRODUCTS_DIR}/MWPhotoBrowser.bundle"
 fi
 
